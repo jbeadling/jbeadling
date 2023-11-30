@@ -1,7 +1,12 @@
-![snowy_mountain](https://github.com/jbeadling/jbeadling/assets/109962549/dfa2e1bc-a9eb-4a1a-bcef-e5230a373427)
+![computer](https://github.com/jbeadling/jbeadling/assets/109962549/16575f3c-b761-4974-acff-0e1701cac234)
 
+# About Me
+- A helpdesk veteran trying to build something 
+- I'm currently learning the fundamentals of Web Development (HTML, CSS, and Javascript)
+- Trying to learn linear algebra
+- RPG connoisseur 
 
-### Hi there 👋
+If you wanna get in touch, feel free to email me jonathan.beadling @ protonmail dot com
 
 <!--
 **jbeadling/jbeadling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
