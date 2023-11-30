@@ -1,4 +1,5 @@
-<img src="https://unsplash.com/photos/aerial-photography-of-mountain-range-covered-with-snow-under-white-and-blue-sky-at-daytime-9wg5jCEPBsw"/>
+![snowy_mountain](https://github.com/jbeadling/jbeadling/assets/109962549/dfa2e1bc-a9eb-4a1a-bcef-e5230a373427)
+
 
 ### Hi there 👋
 
